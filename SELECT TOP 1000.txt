@@ -1,0 +1,4 @@
+SELECT TOP 1000 *
+FROM SurfcomMeasurements
+WHERE Model = '2.4L'
+ORDER BY file_date DESC;

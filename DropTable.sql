@@ -1,0 +1,4 @@
+Drop Table CMM_Measurements
+Drop Table CMM_A25CH_Measurements
+Drop Table SurfcomMeasurements
+Drop Table Surfcom_CamHousing_Assy
